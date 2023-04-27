@@ -5,6 +5,9 @@ We also compared various LLC Cache replacement policies for various types of Gra
 including Breadth First Search(BFS), Connected Components(CC), Page Rank(PR),
 Single Source Shortest Path(SSSP) and Betweenness Centrality(BC).
 
+Link to project slides: https://docs.google.com/presentation/d/1NRadxSoZo4T4Jz2S6LNjgxJYs6mvdzP8/edit?usp=sharing&ouid=106123266158469256843&rtpof=true&sd=true
+Link to project presentation: https://youtu.be/0MgRRTNOWls
+
 ## Cache Hierarchies
 
 There are three common cache hierarchies : inclusive, exclusive and non-inclusive.
